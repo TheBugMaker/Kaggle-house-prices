@@ -13,7 +13,7 @@ First model we thaught to use was XGBoost. Not only beacause XGBoost has a great
 
 # Results 
 
-![Alt text](https://github.com/TheBugMaker/Kaggle-house-prices/raw/master/ kaggle.png "Model results")
+![Alt text](https://github.com/TheBugMaker/Kaggle-house-prices/raw/master/kaggle.png "Model results")
 ![Alt text](https://github.com/TheBugMaker/Kaggle-house-prices/raw/master/kaggle%20ranking.png "Model raking results")
 
 # Conclusion 
